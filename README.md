@@ -14,4 +14,3 @@ Recommend a clean environment because geoml uses GDAL through rasterio and geopa
 
 > pip install agrid
 
-Extra comment: If you use windows you should set the path of GDAL by yourself.
